@@ -3,6 +3,16 @@
 	"EngineAssociation": "4.15",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "LoopSpaceFinal",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Substance",
